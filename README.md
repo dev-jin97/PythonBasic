@@ -18,7 +18,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 1. [자료형](./Chapter3/md/01.%EC%88%AB%EC%9E%90%2C%EB%AC%B8%EC%9E%90%2C%EB%B6%88%EB%A6%B0%EC%9E%90%EB%A3%8C%ED%98%95.md)
 2. [변수](./Chapter3/md/02.%EB%B3%80%EC%88%98.md)
 ### 연산
-3. [연산_1](./Chapter4/md/04.%EC%97%B0%EC%82%B0(1).md)
+1. [연산_1](./Chapter4/md/01.%EC%97%B0%EC%82%B0_1.md)
 
 ### Information 👨🏻‍💻
 

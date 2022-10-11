@@ -23,6 +23,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 3. [입력과 자료형변환](./Chapter4/md/03.%EC%9E%85%EB%A0%A5%2C%EC%9E%90%EB%A3%8C%ED%98%95%EB%B3%80%ED%99%98.md)
 ### 제어문
 1. [조건문](./Chapter5/md/01.제어문_조건문.md)
+2. [리스트자료](./Chapter5/md/02.제어문_리스트자료.md)
 ### Information 👨🏻‍💻
 
 

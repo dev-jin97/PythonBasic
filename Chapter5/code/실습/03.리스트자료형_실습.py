@@ -9,9 +9,12 @@ result = [33, 40, 12, 63, 52]
 
 # 1. 6번의 팔굽혀펴기 개수는 9개이다.
 result.append(9)
-
+print(result)
 # 2. 2번은 재측정하여 50개를 하였다.
-
+result[1] = 50
+print(result)
 # 3. 3번부터 6번까지 데이터를 슬라이싱하자.
-
+print(result[2:6])
 # 4. 모든 데이터를 오름차순으로 정렬하자.
+result.sort()
+print(result)

@@ -9,10 +9,10 @@ author: "HyeonjinKK(Hyeonjin Kim, Seoul/Asia)"
 <img src='images/Python_main.gif' width="600" height="300px">
 </div>
 
-## 목적 📚
+## Why study? 📚
 Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언어에 대한 전반적인 지식과 심화 학습이 필요하다고 생각하여 진행.
 
-## 목차 📚
+## Contents 📚
 > 학습을 진행하면 변경점이 있을때마다 Commit을 진행할 예정이며, 1일 1Commit(TIL)을 목표로 학습 예정.
 ### 자료형과 변수
 1. [자료형](./Chapter3/md/01.%EC%88%AB%EC%9E%90%2C%EB%AC%B8%EC%9E%90%2C%EB%B6%88%EB%A6%B0%EC%9E%90%EB%A3%8C%ED%98%95.md)
@@ -25,5 +25,6 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 1. [조건문](./Chapter5/md/01.제어문_조건문.md)
 2. [리스트자료](./Chapter5/md/02.제어문_리스트자료.md)
 ### Information 👨🏻‍💻
+Hi, Here is Study for Python Basic Course.
 
 

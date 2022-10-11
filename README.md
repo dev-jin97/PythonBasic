@@ -14,7 +14,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 
 ## 목차 📚
 > 학습을 진행하면 변경점이 있을때마다 Commit을 진행할 예정이며, 1일 1Commit(TIL)을 목표로 학습 예정.
-1. (정리 중)
+1. [자료형](./Chapter3/01.%EC%88%AB%EC%9E%90%2C%EB%AC%B8%EC%9E%90%2C%EB%B6%88%EB%A6%B0%EC%9E%90%EB%A3%8C%ED%98%95.md)
 
 ### Information 👨🏻‍💻
 

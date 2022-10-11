@@ -1,3 +1,9 @@
+---
+title: "Python Basic"
+date: "2022-10-10"
+author: "HyeonjinKK(Hyeonjin Kim, Seoul/Asia)"
+---
+
 # PythonBasic
 <div align="center">
 <img src='images/Python_main.gif' width="600" height="300px">
@@ -12,8 +18,4 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 
 ### Information 👨🏻‍💻
 
----
-title: "Python Basic"
-date: "2022-10-10"
-author: "HyeonjinKK(Hyeonjin Kim, Seoul/Asia)"
----
+

@@ -38,6 +38,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 4. [오버라이딩](./Chapter8/md/04.오버라이딩_클래스변수.md)
 ### 모듈과 패키지
 1. [모듈](./Chapter9/md/01.모듈.md)
+2. [패키지](./Chapter9/md/02.패키지.md)
 ### Information 👨🏻‍💻
 Hi, Here is Study for Python Basic Course.
 

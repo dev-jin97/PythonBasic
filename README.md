@@ -25,6 +25,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 1. [조건문](./Chapter5/md/01.제어문_조건문.md)
 2. [리스트자료](./Chapter5/md/02.제어문_리스트자료.md)
 3. [반복문_1](./Chapter5/md/03.반복문_1.md)
+4. [반복문_2](./Chapter5/md/03.반복문_2.md)
 ### Information 👨🏻‍💻
 Hi, Here is Study for Python Basic Course.
 

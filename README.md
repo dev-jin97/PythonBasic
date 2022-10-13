@@ -28,6 +28,9 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 4. [반복문_2](./Chapter5/md/03.반복문_2.md)
 ### 함수
 1. [함수개념](./Chapter6/md/01.함수.md)
+### 딕셔너리와 튜플
+1. [튜플](./Chapter7/md/01.튜플.md)
+2. [딕셔너리](./Chapter7/md/02.딕셔너리.md)
 ### Information 👨🏻‍💻
 Hi, Here is Study for Python Basic Course.
 

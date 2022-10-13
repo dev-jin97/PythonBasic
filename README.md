@@ -36,6 +36,6 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 2. [생성자](./Chapter8/md/02.생성자.md)
 3. [상속](./Chapter8/md/03.상속.md)
 ### Information 👨🏻‍💻
-Hi, Here is Study for Python Basic Course.
+Hi, Here is Study for Python Basic Course!!!
 
 

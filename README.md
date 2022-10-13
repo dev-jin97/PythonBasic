@@ -35,6 +35,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 1. [클래스와 객체](./Chapter8/md/01.클래스와 객체.md)
 2. [생성자](./Chapter8/md/02.생성자.md)
 3. [상속](./Chapter8/md/03.상속.md)
+4. [오버라이딩](./Chapter8/md/04.오버라이딩_클래스변수.md))
 ### Information 👨🏻‍💻
 Hi, Here is Study for Python Basic Course.
 

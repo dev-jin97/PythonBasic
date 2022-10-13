@@ -31,6 +31,8 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 ### 딕셔너리와 튜플
 1. [튜플](./Chapter7/md/01.튜플.md)
 2. [딕셔너리](./Chapter7/md/02.딕셔너리.md)
+### 클래스
+1. [클래스와 객체](./Chapter8/md/01.클래스와 객체.md)
 ### Information 👨🏻‍💻
 Hi, Here is Study for Python Basic Course.
 

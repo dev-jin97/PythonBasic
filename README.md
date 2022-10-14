@@ -32,7 +32,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 #### 딕셔너리와 튜플
 1. [튜플](./Chapter7/md/01.튜플.md)
 2. [딕셔너리](./Chapter7/md/02.딕셔너리.md)
-### 클래스
+#### 클래스
 1. [클래스,객체](./Chapter8/md/01.클래스와 객체.md)
 2. [생성자](./Chapter8/md/02.생성자.md)
 3. [상속](./Chapter8/md/03.상속.md)
@@ -40,6 +40,8 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 #### 모듈과 패키지
 1. [모듈](./Chapter9/md/01.모듈.md)
 2. [패키지](./Chapter9/md/02.패키지.md)
+#### 파일 입출력
+1. [파일 입출력](./Chapter10/md/01.파일입출력.md)
 
 ---
 

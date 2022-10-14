@@ -47,6 +47,6 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 #### 예외처리
 1. [에러와 예외처리](./Chapter11/md/01.에러와 예외처리.md)
 ### Information
-Hi, Here is Study for Python Basic Course!!!
+Hi, Here is Study for Python Basic Course!!
 
 

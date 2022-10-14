@@ -42,7 +42,7 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 2. [패키지](./Chapter9/md/02.패키지.md)
 #### 파일 입출력
 1. [파일 입출력](./Chapter10/md/01.파일입출력.md)
-
+2. [csv파일](./Chapter10/md/02.csv입출력.md)
 ---
 
 ### Information 👨🏻‍💻

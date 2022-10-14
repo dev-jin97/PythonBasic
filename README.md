@@ -44,8 +44,9 @@ Python Web Developer 과정에 대한 학습을 진행하기 전에 Python 언�
 1. [파일 입출력](./Chapter10/md/01.파일입출력.md)
 2. [csv파일](./Chapter10/md/02.csv입출력.md)
 ---
-
-### Information 👨🏻‍💻
+#### 예외처리
+1. [에러와 예외처리](./Chapter11/md/01.에러와 예외처리.md)
+### Information
 Hi, Here is Study for Python Basic Course!!!
 
 
